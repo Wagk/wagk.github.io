@@ -1,4 +1,5 @@
 * にほんご (Japanese)
+
 ** Tables
 *** ひらがな (Hiragana)
 
@@ -55,5 +56,46 @@ themselves, あ, い, う, え, お, わ, and を.
 | n |    |    |    |    | ン |   |    |    |    |    |    |   |    |    |    |    |    |
 
 *** 漢字 (Kanji)
-
 ** Grammar
+
+** Vocabulary
+
+| にひんご | English | Meaning | Notes    |
+|----------+---------+---------+----------|
+| はい     | hai     | Yes     |          |
+| いいえ   | iie     | No      |          |
+| わたし   | watashi | I/me    |          |
+| とけい   | tokei   | clock   |          |
+| ペン     | pen     | ...Pen  | Katakana |
+
+*** Time :time:
+
+**** Hours
+     Hours are usually represented with じ.
+
+| Hour | Hiragana     |   |
+|------+--------------+---|
+|    1 | いちじ       |   |
+|    2 | にじ         |   |
+|    3 | さんじ       |   |
+|    4 | よじ         | * |
+|    5 | ごじ         |   |
+|    6 | ろくじ       |   |
+|    7 | しちじ       | * |
+|    8 | はちじ       |   |
+|    9 | くじ         | * |
+|   10 | じゅうじ     |   |
+|   11 | じゅういちじ |   |
+|   12 | じゅうにじ   |   |
+
+**** Minutes
+     Minutes are a combination of ぷん and ふん.
+     - ぷん when the number ends with a 0, 1, 3, 4, 6, or 8.
+     - ふん otherwise.
+
+Half an hour can also be described with 半, or はん.
+
+**** AM/PM
+
+- ごご means AM
+- ごせん means PM
