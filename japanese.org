@@ -1,6 +1,6 @@
 * にほんご (Japanese)
 
-** Tables
+** Symbols
 *** ひらがな (Hiragana)
 
 |   | a  | i  | u  | e  | o  |   | a  | i  | u  | e  | o  |   | a  | i  | u  | e  | o  |
@@ -57,6 +57,15 @@ themselves, あ, い, う, え, お, わ, and を.
 
 *** 漢字 (Kanji)
 ** Grammar
+*** Verb Stems
+
+| Present Positive | ます         |
+| Present Negative | ません       |
+| Past Positive    | ました       |
+| Past Negative    | ませんでした |
+
+So instead of ending sentences with です we can apply a verb and then use these verb stem
+to indicate tense. Like Chinese there is no future tense
 
 ** Vocabulary
 
@@ -68,10 +77,66 @@ themselves, あ, い, う, え, お, わ, and を.
 | とけい   | tokei   | clock   |          |
 | ペン     | pen     | ...Pen  | Katakana |
 
+*** Phone Numbers
+:interrogative: When asking for the phone number you use なんばん
+
+*** Age
+:interrogative: When asking for someone's age you use [お]いくつ. Appending the お if you feel formal
+
 *** Time :time:
+
+**** Morning/Night
+
+| Morning | あさ |
+| Night   | ばん |
+
+**** Years
+
+| This year            | ことし             |
+| Last year            | きょねん           |
+| The year before last | おととし           |
+| Next year            | らいねん           |
+| The year after next  | さらいねん         |
+| Every year           | まいとし／まいねん |
+
+**** Months
+
+| This month            | こんげつ                      |
+| Last month            | せんげつ                      |
+| The month before last | せんせんげつ （にかげつまえ） |
+| Next month            | らいげつ                      |
+| The month after next  | さらいげつ                    |
+| Every month           | まいつき                      |
+
+**** Weeks
+
+| This week            | こんしゅう                          |
+| Last week            | せんしゅう                          |
+| The week before last | せんせんしゅう （にしゅうかんまえ） |
+| Next week            | らいしゅう                          |
+| The week after next  | さらいしゅう                        |
+| Every week           | まいしゅう                          |
+
+**** Days
+
+| Sunday                   | にちようび | 日 |                                                                           |
+| Monday                   | げつようび | 月 |                                                                           |
+| Tuesday                  | かようび   | 火 |                                                                           |
+| Wednesday                | すいようび | 水 |                                                                           |
+| Thursday                 | もくようび | 木 |                                                                           |
+| Friday                   | きんようび | 金 |                                                                           |
+| Saturday                 | どうようび | 土 |                                                                           |
+| Yesterday                | きのい     |    |                                                                           |
+| The day before yesterday | おととい   |    |                                                                           |
+| Today                    | きょい     |    |                                                                           |
+| Tomorrow                 | あした     |    |                                                                           |
+| The day after tomorrow   | あさて     |    | there is a つ between the さ and て, though I don't know how to insert it |
+| Every day                | まいにち   |    |                                                                           |
 
 **** Hours
      Hours are usually represented with じ.
+
+:interrogative: When asking for the time, one would use なんじ
 
 | Hour | Hiragana     |   |
 |------+--------------+---|
@@ -99,3 +164,8 @@ Half an hour can also be described with 半, or はん.
 
 - ごご means AM
 - ごせん means PM
+
+**** Begin/Ending
+
+| から | Open        |
+| まで | Close/Until |
