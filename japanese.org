@@ -77,6 +77,17 @@ to indicate tense. Like Chinese there is no future tense
 | とけい   | tokei   | clock   |          |
 | ペン     | pen     | ...Pen  | Katakana |
 
+*** Transportation
+
+We specify mode of transport/destination with で.
+
+わたしはひこきでにほんへいきます。=> I am taking the plane to Japan.
+
+We skip the で combination when talking about walking.
+
+へ is also a special case, here pronounced `e` instead of the usual `he`
+We use へ instead of に when we are using the coming and going verbs
+
 *** Phone Numbers
 :interrogative: When asking for the phone number you use なんばん
 
