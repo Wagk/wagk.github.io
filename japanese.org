@@ -112,6 +112,20 @@ We use へ instead of に when we are using the coming and going verbs
 
 **** Months
 
+| January   | いちがつ       |   |
+| February  | にがつ         |   |
+| March     | さんがつ       |   |
+| April     | ちがつ         | * |
+| May       | ごがつ         |   |
+| June      | ろくがつ       |   |
+| July      | しちがつ       | * |
+| August    | はちがつ       |   |
+| September | くがつ         | * |
+| October   | じゅうがつ     |   |
+| November  | じゅういちがつ |   |
+| December  | じゅうにがつ   |   |
+
+TODO: verify this table
 | This month            | こんげつ                      |
 | Last month            | せんげつ                      |
 | The month before last | せんせんげつ （にかげつまえ） |
