@@ -3,19 +3,19 @@
 ** Symbols
 *** ひらがな (Hiragana)
 
-|     | a  | i  | u  | e  | o  |     | a  | i  | u  | e  | o  |   | a  | i  | u  | e  | o  |
-|-----+----+----+----+----+----+-----+----+----+----+----+----+---+----+----+----+----+----|
-|     | あ | い | う | え | お |     |    |    |    |    |    |   |    |    |    |    |    |
-| *k* | か | き | く | け | こ | *g* | が | ぎ | ぐ | げ | ご |   |    |    |    |    |    |
-| *s* | さ | し | す | せ | そ | *z* | ざ | じ | ず | ぜ | ぞ |   |    |    |    |    |    |
-| *t* | た | ち | つ | て | と | *d* | だ | ぢ | づ | で | ど |   |    |    |    |    |    |
-| *n* | な | に | ぬ | ね | の |     |    |    |    |    |    |   |    |    |    |    |    |
-| *h* | は | ひ | ふ | へ | ほ | *b* | ば | び | ぶ | べ | ぼ | p | ぱ | ぴ | ぷ | ぺ | ぽ |
-| *m* | ま | み | む | め | も |     |    |    |    |    |    |   |    |    |    |    |    |
-| *y* | や |    | ゆ |    | よ |     |    |    |    |    |    |   |    |    |    |    |    |
-| *r* | ら | り | る | れ | ろ |     |    |    |    |    |    |   |    |    |    |    |    |
-| *w* | わ |    |    |    | を |     |    |    |    |    |    |   |    |    |    |    |    |
-| *n* |    |    |    |    | ん |     |    |    |    |    |    |   |    |    |    |    |    |
+|     | a  | i  | u  | e  | o  |     | a  | i  | u  | e  | o  |     | a  | i  | u  | e  | o  |
+|-----+----+----+----+----+----+-----+----+----+----+----+----+-----+----+----+----+----+----|
+|     | あ | い | う | え | お |     |    |    |    |    |    |     |    |    |    |    |    |
+| *k* | か | き | く | け | こ | *g* | が | ぎ | ぐ | げ | ご |     |    |    |    |    |    |
+| *s* | さ | し | す | せ | そ | *z* | ざ | じ | ず | ぜ | ぞ |     |    |    |    |    |    |
+| *t* | た | ち | つ | て | と | *d* | だ | ぢ | づ | で | ど |     |    |    |    |    |    |
+| *n* | な | に | ぬ | ね | の |     |    |    |    |    |    |     |    |    |    |    |    |
+| *h* | は | ひ | ふ | へ | ほ | *b* | ば | び | ぶ | べ | ぼ | *p* | ぱ | ぴ | ぷ | ぺ | ぽ |
+| *m* | ま | み | む | め | も |     |    |    |    |    |    |     |    |    |    |    |    |
+| *y* | や |    | ゆ |    | よ |     |    |    |    |    |    |     |    |    |    |    |    |
+| *r* | ら | り | る | れ | ろ |     |    |    |    |    |    |     |    |    |    |    |    |
+| *w* | わ |    |    |    | を |     |    |    |    |    |    |     |    |    |    |    |    |
+| *n* |    |    |    |    | ん |     |    |    |    |    |    |     |    |    |    |    |    |
 
 The characters や, ゆ, and よ can be concatenated behind every character except
 themselves, あ, い, う, え, お, わ, and を.
@@ -59,10 +59,10 @@ themselves, あ, い, う, え, お, わ, and を.
 ** Grammar
 *** Verb Stems
 
-| Present Positive | ます         |
-| Present Negative | ません       |
-| Past Positive    | ました       |
-| Past Negative    | ませんでした |
+| Present          | ます         |
+| Present Negation | ません       |
+| Past             | ました       |
+| Past Negation    | ませんでした |
 
 So instead of ending sentences with です we can apply a verb and then use these verb stem
 to indicate tense. Like Chinese there is no future tense
@@ -88,6 +88,12 @@ We skip the で combination when talking about walking.
 へ is also a special case, here pronounced `e` instead of the usual `he`
 We use へ instead of に when we are using the coming and going verbs
 
+When someone uses ...どこも... it means that s/he's querying where you're
+going. You can respond with a positive or negative predicate
+
+| Come | いきます |
+| Go   | きます   |
+
 *** Phone Numbers
 :interrogative: When asking for the phone number you use なんばん
 
@@ -95,6 +101,11 @@ We use へ instead of に when we are using the coming and going verbs
 :interrogative: When asking for someone's age you use [お]いくつ. Appending the お if you feel formal
 
 *** Time :time:
+
+:interrogative: なんじ
+
+| References                                                     | Notes |
+| http://www.japanese-language.aiyori.org/japanese-words-30.html |       |
 
 **** Morning/Night
 
@@ -112,10 +123,12 @@ We use へ instead of に when we are using the coming and going verbs
 
 **** Months
 
+The word for month is がつ, or 月.
+
 | January   | いちがつ       |   |
 | February  | にがつ         |   |
 | March     | さんがつ       |   |
-| April     | ちがつ         | * |
+| April     | しがつ         | * |
 | May       | ごがつ         |   |
 | June      | ろくがつ       |   |
 | July      | しちがつ       | * |
@@ -125,7 +138,6 @@ We use へ instead of に when we are using the coming and going verbs
 | November  | じゅういちがつ |   |
 | December  | じゅうにがつ   |   |
 
-TODO: verify this table
 | This month            | こんげつ                      |
 | Last month            | せんげつ                      |
 | The month before last | せんせんげつ （にかげつまえ） |
@@ -153,12 +165,16 @@ TODO: verify this table
 | Saturday                 | どうようび | 土 |                                                                           |
 
 | The day before yesterday | おととい |
-| Today                    | きょい   |
+| Yesterday                | きのう   |
+| Today                    | きょう   |
 | Tomorrow                 | あした   |
 | The day after tomorrow   | あさって |
 | Every day                | まいにち |
 
 ***** Days of the Month
+
+The days appear to use か for the single digit ones and にち for the rest,
+with a few special cases
 
 |  1 | ついたち           |   |
 |  2 | ふつか             |   |
