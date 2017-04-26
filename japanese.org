@@ -67,6 +67,10 @@ themselves, あ, い, う, え, お, わ, and を.
 So instead of ending sentences with です we can apply a verb and then use these verb stem
 to indicate tense. Like Chinese there is no future tense
 
+We use を to denote a verb
+
+We
+
 ** Vocabulary
 
 | にひんご | English | Meaning | Notes    |
@@ -156,13 +160,13 @@ The word for month is がつ, or 月.
 
 **** Days
 
-| Sunday                   | にちようび | 日 |                                                                           |
-| Monday                   | げつようび | 月 |                                                                           |
-| Tuesday                  | かようび   | 火 |                                                                           |
-| Wednesday                | すいようび | 水 |                                                                           |
-| Thursday                 | もくようび | 木 |                                                                           |
-| Friday                   | きんようび | 金 |                                                                           |
-| Saturday                 | どうようび | 土 |                                                                           |
+| Sunday    | にちようび | 日 |
+| Monday    | げつようび | 月 |
+| Tuesday   | かようび   | 火 |
+| Wednesday | すいようび | 水 |
+| Thursday  | もくようび | 木 |
+| Friday    | きんようび | 金 |
+| Saturday  | どうようび | 土 |
 
 | The day before yesterday | おととい |
 | Yesterday                | きのう   |
@@ -208,7 +212,6 @@ with a few special cases
 | 30 | さんじゅうにち     |   |
 | 31 | さんじゅういちにち |   |
 
-
 **** Hours
      Hours are usually represented with じ.
 
@@ -245,3 +248,18 @@ Half an hour can also be described with 半, or はん.
 
 | から | Open        |
 | まで | Close/Until |
+|      |             |
+|      |             |
+
+*** Travelling
+
+We append と to denote whoever else is travelling with us
+- Unless we are referring to ourselves, whereupon we use で.
+
+We append へ to our destinations
+
+We append に to denote a specific time. If time is specified relatively, it is omitted
+- This also applies to specific /unknown/ times, like asking /which weekday/
+
+We append で to denote our mode of transport.
+- It's omitted when we are our own mode of transport (eg, walking)
